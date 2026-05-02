@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SistemaDeGestiónDeEmpleados.BL/SistemaDeGestiónDeEmpleados.BL.csproj" />
+  <Project Path="SistemaDeGestiónDeEmpleados.DAL/SistemaDeGestiónDeEmpleados.DAL.csproj" />
+  <Project Path="SistemaDeGestiónDeEmpleados.MODEL/SistemaDeGestiónDeEmpleados.MODEL.csproj" />
+  <Project Path="SistemaDeGestiónDeEmpleados.WEB/SistemaDeGestiónDeEmpleados.WEB.csproj" />
+</Solution>
